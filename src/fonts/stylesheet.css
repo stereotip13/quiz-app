@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Neuropol';
+    src: url('NeuropolMedium.eot');
+    src: url('NeuropolMedium.eot?#iefix') format('embedded-opentype'),
+        url('NeuropolMedium.woff2') format('woff2'),
+        url('NeuropolMedium.woff') format('woff'),
+        url('NeuropolMedium.ttf') format('truetype'),
+        url('NeuropolMedium.svg#NeuropolMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
